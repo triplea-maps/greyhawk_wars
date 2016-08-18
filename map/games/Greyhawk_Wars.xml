@@ -6734,149 +6734,149 @@
     <!-- Conditions and Triggers -->
     <!-- Every Round, Odd, Even Round Conditions -->
     <attachment name="conditionAttachmentIuzEveryRound" attachTo="Iuz" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1-+"/>
+      <option name="rounds" value="1-+"/>
     </attachment>
     <attachment name="conditionAttachmentFuryondyEveryRound" attachTo="Furyondy" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1-+"/>
+      <option name="rounds" value="1-+"/>
     </attachment>
     <attachment name="conditionAttachmentGreat_KingdomEveryRound" attachTo="Great_Kingdom" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1-+"/>
+      <option name="rounds" value="1-+"/>
     </attachment>
     <attachment name="conditionAttachmentNyrondEveryRound" attachTo="Nyrond" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1-+"/>
+      <option name="rounds" value="1-+"/>
     </attachment>
     <attachment name="conditionAttachmentScarlet_BrotherhoodEveryRound" attachTo="Scarlet_Brotherhood" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1-+"/>
+      <option name="rounds" value="1-+"/>
     </attachment>
     <attachment name="conditionAttachmentKeolandEveryRound" attachTo="Keoland" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1-+"/>
+      <option name="rounds" value="1-+"/>
     </attachment>
     <attachment name="conditionAttachmentKetEveryRound" attachTo="Ket" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1-+"/>
+      <option name="rounds" value="1-+"/>
     </attachment>
     <attachment name="conditionAttachmentIron_LeagueEveryRound" attachTo="Iron_League" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1-+"/>
+      <option name="rounds" value="1-+"/>
     </attachment>
     <attachment name="conditionAttachmentPomarjEveryRound" attachTo="Pomarj" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1-+"/>
+      <option name="rounds" value="1-+"/>
     </attachment>
     <attachment name="conditionAttachmentSuelEveryRound" attachTo="Suel" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1-+"/>
+      <option name="rounds" value="1-+"/>
     </attachment>
     <attachment name="conditionAttachmentIuzOddRounds" attachTo="Iuz" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1:3:5:7:9:11:13:15:17:19:21:23:25:27:29:31:33:35:37:39:41:43:45:47:49:51:53:55:57:59:61:63:65:67:69:71:73:75:77:79:81:83:85:87:89:91:93:95:97:99"/>
+      <option name="rounds" value="1:3:5:7:9:11:13:15:17:19:21:23:25:27:29:31:33:35:37:39:41:43:45:47:49:51:53:55:57:59:61:63:65:67:69:71:73:75:77:79:81:83:85:87:89:91:93:95:97:99"/>
     </attachment>
     <attachment name="conditionAttachmentFuryondyOddRounds" attachTo="Furyondy" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1:3:5:7:9:11:13:15:17:19:21:23:25:27:29:31:33:35:37:39:41:43:45:47:49:51:53:55:57:59:61:63:65:67:69:71:73:75:77:79:81:83:85:87:89:91:93:95:97:99"/>
+      <option name="rounds" value="1:3:5:7:9:11:13:15:17:19:21:23:25:27:29:31:33:35:37:39:41:43:45:47:49:51:53:55:57:59:61:63:65:67:69:71:73:75:77:79:81:83:85:87:89:91:93:95:97:99"/>
     </attachment>
     <attachment name="conditionAttachmentGreat_KingdomOddRounds" attachTo="Great_Kingdom" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1:3:5:7:9:11:13:15:17:19:21:23:25:27:29:31:33:35:37:39:41:43:45:47:49:51:53:55:57:59:61:63:65:67:69:71:73:75:77:79:81:83:85:87:89:91:93:95:97:99"/>
+      <option name="rounds" value="1:3:5:7:9:11:13:15:17:19:21:23:25:27:29:31:33:35:37:39:41:43:45:47:49:51:53:55:57:59:61:63:65:67:69:71:73:75:77:79:81:83:85:87:89:91:93:95:97:99"/>
     </attachment>
     <attachment name="conditionAttachmentNyrondOddRounds" attachTo="Nyrond" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1:3:5:7:9:11:13:15:17:19:21:23:25:27:29:31:33:35:37:39:41:43:45:47:49:51:53:55:57:59:61:63:65:67:69:71:73:75:77:79:81:83:85:87:89:91:93:95:97:99"/>
+      <option name="rounds" value="1:3:5:7:9:11:13:15:17:19:21:23:25:27:29:31:33:35:37:39:41:43:45:47:49:51:53:55:57:59:61:63:65:67:69:71:73:75:77:79:81:83:85:87:89:91:93:95:97:99"/>
     </attachment>
     <attachment name="conditionAttachmentScarlet_BrotherhoodOddRounds" attachTo="Scarlet_Brotherhood" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1:3:5:7:9:11:13:15:17:19:21:23:25:27:29:31:33:35:37:39:41:43:45:47:49:51:53:55:57:59:61:63:65:67:69:71:73:75:77:79:81:83:85:87:89:91:93:95:97:99"/>
+      <option name="rounds" value="1:3:5:7:9:11:13:15:17:19:21:23:25:27:29:31:33:35:37:39:41:43:45:47:49:51:53:55:57:59:61:63:65:67:69:71:73:75:77:79:81:83:85:87:89:91:93:95:97:99"/>
     </attachment>
     <attachment name="conditionAttachmentKeolandOddRounds" attachTo="Keoland" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1:3:5:7:9:11:13:15:17:19:21:23:25:27:29:31:33:35:37:39:41:43:45:47:49:51:53:55:57:59:61:63:65:67:69:71:73:75:77:79:81:83:85:87:89:91:93:95:97:99"/>
+      <option name="rounds" value="1:3:5:7:9:11:13:15:17:19:21:23:25:27:29:31:33:35:37:39:41:43:45:47:49:51:53:55:57:59:61:63:65:67:69:71:73:75:77:79:81:83:85:87:89:91:93:95:97:99"/>
     </attachment>
     <attachment name="conditionAttachmentKetOddRounds" attachTo="Ket" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1:3:5:7:9:11:13:15:17:19:21:23:25:27:29:31:33:35:37:39:41:43:45:47:49:51:53:55:57:59:61:63:65:67:69:71:73:75:77:79:81:83:85:87:89:91:93:95:97:99"/>
+      <option name="rounds" value="1:3:5:7:9:11:13:15:17:19:21:23:25:27:29:31:33:35:37:39:41:43:45:47:49:51:53:55:57:59:61:63:65:67:69:71:73:75:77:79:81:83:85:87:89:91:93:95:97:99"/>
     </attachment>
     <attachment name="conditionAttachmentIron_LeagueOddRounds" attachTo="Iron_League" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1:3:5:7:9:11:13:15:17:19:21:23:25:27:29:31:33:35:37:39:41:43:45:47:49:51:53:55:57:59:61:63:65:67:69:71:73:75:77:79:81:83:85:87:89:91:93:95:97:99"/>
+      <option name="rounds" value="1:3:5:7:9:11:13:15:17:19:21:23:25:27:29:31:33:35:37:39:41:43:45:47:49:51:53:55:57:59:61:63:65:67:69:71:73:75:77:79:81:83:85:87:89:91:93:95:97:99"/>
     </attachment>
     <attachment name="conditionAttachmentPomarjOddRounds" attachTo="Pomarj" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1:3:5:7:9:11:13:15:17:19:21:23:25:27:29:31:33:35:37:39:41:43:45:47:49:51:53:55:57:59:61:63:65:67:69:71:73:75:77:79:81:83:85:87:89:91:93:95:97:99"/>
+      <option name="rounds" value="1:3:5:7:9:11:13:15:17:19:21:23:25:27:29:31:33:35:37:39:41:43:45:47:49:51:53:55:57:59:61:63:65:67:69:71:73:75:77:79:81:83:85:87:89:91:93:95:97:99"/>
     </attachment>
     <attachment name="conditionAttachmentSuelOddRounds" attachTo="Suel" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1:3:5:7:9:11:13:15:17:19:21:23:25:27:29:31:33:35:37:39:41:43:45:47:49:51:53:55:57:59:61:63:65:67:69:71:73:75:77:79:81:83:85:87:89:91:93:95:97:99"/>
+      <option name="rounds" value="1:3:5:7:9:11:13:15:17:19:21:23:25:27:29:31:33:35:37:39:41:43:45:47:49:51:53:55:57:59:61:63:65:67:69:71:73:75:77:79:81:83:85:87:89:91:93:95:97:99"/>
     </attachment>
     <attachment name="conditionAttachmentIuzEvenRounds" attachTo="Iuz" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2:4:6:8:10:12:14:16:18:20:22:24:26:28:30:32:34:36:38:40:42:44:46:48:50:52:54:56:58:60:62:64:66:68:70:72:74:76:78:80:82:84:86:88:90:92:94:96:98:100"/>
+      <option name="rounds" value="2:4:6:8:10:12:14:16:18:20:22:24:26:28:30:32:34:36:38:40:42:44:46:48:50:52:54:56:58:60:62:64:66:68:70:72:74:76:78:80:82:84:86:88:90:92:94:96:98:100"/>
     </attachment>
     <attachment name="conditionAttachmentFuryondyEvenRounds" attachTo="Furyondy" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2:4:6:8:10:12:14:16:18:20:22:24:26:28:30:32:34:36:38:40:42:44:46:48:50:52:54:56:58:60:62:64:66:68:70:72:74:76:78:80:82:84:86:88:90:92:94:96:98:100"/>
+      <option name="rounds" value="2:4:6:8:10:12:14:16:18:20:22:24:26:28:30:32:34:36:38:40:42:44:46:48:50:52:54:56:58:60:62:64:66:68:70:72:74:76:78:80:82:84:86:88:90:92:94:96:98:100"/>
     </attachment>
     <attachment name="conditionAttachmentGreat_KingdomEvenRounds" attachTo="Great_Kingdom" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2:4:6:8:10:12:14:16:18:20:22:24:26:28:30:32:34:36:38:40:42:44:46:48:50:52:54:56:58:60:62:64:66:68:70:72:74:76:78:80:82:84:86:88:90:92:94:96:98:100"/>
+      <option name="rounds" value="2:4:6:8:10:12:14:16:18:20:22:24:26:28:30:32:34:36:38:40:42:44:46:48:50:52:54:56:58:60:62:64:66:68:70:72:74:76:78:80:82:84:86:88:90:92:94:96:98:100"/>
     </attachment>
     <attachment name="conditionAttachmentNyrondEvenRounds" attachTo="Nyrond" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2:4:6:8:10:12:14:16:18:20:22:24:26:28:30:32:34:36:38:40:42:44:46:48:50:52:54:56:58:60:62:64:66:68:70:72:74:76:78:80:82:84:86:88:90:92:94:96:98:100"/>
+      <option name="rounds" value="2:4:6:8:10:12:14:16:18:20:22:24:26:28:30:32:34:36:38:40:42:44:46:48:50:52:54:56:58:60:62:64:66:68:70:72:74:76:78:80:82:84:86:88:90:92:94:96:98:100"/>
     </attachment>
     <attachment name="conditionAttachmentScarlet_BrotherhoodEvenRounds" attachTo="Scarlet_Brotherhood" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2:4:6:8:10:12:14:16:18:20:22:24:26:28:30:32:34:36:38:40:42:44:46:48:50:52:54:56:58:60:62:64:66:68:70:72:74:76:78:80:82:84:86:88:90:92:94:96:98:100"/>
+      <option name="rounds" value="2:4:6:8:10:12:14:16:18:20:22:24:26:28:30:32:34:36:38:40:42:44:46:48:50:52:54:56:58:60:62:64:66:68:70:72:74:76:78:80:82:84:86:88:90:92:94:96:98:100"/>
     </attachment>
     <attachment name="conditionAttachmentKeolandEvenRounds" attachTo="Keoland" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2:4:6:8:10:12:14:16:18:20:22:24:26:28:30:32:34:36:38:40:42:44:46:48:50:52:54:56:58:60:62:64:66:68:70:72:74:76:78:80:82:84:86:88:90:92:94:96:98:100"/>
+      <option name="rounds" value="2:4:6:8:10:12:14:16:18:20:22:24:26:28:30:32:34:36:38:40:42:44:46:48:50:52:54:56:58:60:62:64:66:68:70:72:74:76:78:80:82:84:86:88:90:92:94:96:98:100"/>
     </attachment>
     <attachment name="conditionAttachmentKetEvenRounds" attachTo="Ket" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2:4:6:8:10:12:14:16:18:20:22:24:26:28:30:32:34:36:38:40:42:44:46:48:50:52:54:56:58:60:62:64:66:68:70:72:74:76:78:80:82:84:86:88:90:92:94:96:98:100"/>
+      <option name="rounds" value="2:4:6:8:10:12:14:16:18:20:22:24:26:28:30:32:34:36:38:40:42:44:46:48:50:52:54:56:58:60:62:64:66:68:70:72:74:76:78:80:82:84:86:88:90:92:94:96:98:100"/>
     </attachment>
     <attachment name="conditionAttachmentIron_LeagueEvenRounds" attachTo="Iron_League" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2:4:6:8:10:12:14:16:18:20:22:24:26:28:30:32:34:36:38:40:42:44:46:48:50:52:54:56:58:60:62:64:66:68:70:72:74:76:78:80:82:84:86:88:90:92:94:96:98:100"/>
+      <option name="rounds" value="2:4:6:8:10:12:14:16:18:20:22:24:26:28:30:32:34:36:38:40:42:44:46:48:50:52:54:56:58:60:62:64:66:68:70:72:74:76:78:80:82:84:86:88:90:92:94:96:98:100"/>
     </attachment>
     <attachment name="conditionAttachmentPomarjEvenRounds" attachTo="Pomarj" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2:4:6:8:10:12:14:16:18:20:22:24:26:28:30:32:34:36:38:40:42:44:46:48:50:52:54:56:58:60:62:64:66:68:70:72:74:76:78:80:82:84:86:88:90:92:94:96:98:100"/>
+      <option name="rounds" value="2:4:6:8:10:12:14:16:18:20:22:24:26:28:30:32:34:36:38:40:42:44:46:48:50:52:54:56:58:60:62:64:66:68:70:72:74:76:78:80:82:84:86:88:90:92:94:96:98:100"/>
     </attachment>
     <attachment name="conditionAttachmentSuelEvenRounds" attachTo="Suel" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2:4:6:8:10:12:14:16:18:20:22:24:26:28:30:32:34:36:38:40:42:44:46:48:50:52:54:56:58:60:62:64:66:68:70:72:74:76:78:80:82:84:86:88:90:92:94:96:98:100"/>
+      <option name="rounds" value="2:4:6:8:10:12:14:16:18:20:22:24:26:28:30:32:34:36:38:40:42:44:46:48:50:52:54:56:58:60:62:64:66:68:70:72:74:76:78:80:82:84:86:88:90:92:94:96:98:100"/>
     </attachment>
     <!-- Still Active Conditions -->
     <attachment name="conditionAttachmentIuz_Still_Active" attachTo="Iuz" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2-+"/>
+      <option name="rounds" value="2-+"/>
       <option name="directPresenceTerritories" value="map" count="1"/>
       <option name="unitPresence" value="hero:Iuz_the_Old" count="1"/>
     </attachment>
     <attachment name="conditionAttachmentFuryondy_Still_Active" attachTo="Furyondy" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2-+"/>
+      <option name="rounds" value="2-+"/>
       <option name="directPresenceTerritories" value="map" count="1"/>
       <option name="unitPresence" value="hero:Belvor_IV" count="1"/>
     </attachment>
     <attachment name="conditionAttachmentGreat_Kingdom_Still_Active" attachTo="Great_Kingdom" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2-+"/>
+      <option name="rounds" value="2-+"/>
       <option name="directPresenceTerritories" value="map" count="1"/>
       <option name="unitPresence" value="hero:Ivid_V" count="1"/>
     </attachment>
     <attachment name="conditionAttachmentNyrond_Still_Active" attachTo="Nyrond" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2-+"/>
+      <option name="rounds" value="2-+"/>
       <option name="directPresenceTerritories" value="map" count="1"/>
       <option name="unitPresence" value="hero:Archbold_III" count="1"/>
     </attachment>
     <attachment name="conditionAttachmentScarlet_Brotherhood_Still_Active" attachTo="Scarlet_Brotherhood" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2-+"/>
+      <option name="rounds" value="2-+"/>
       <option name="directPresenceTerritories" value="map" count="1"/>
       <option name="unitPresence" value="hero:The_Father_of_Obedience" count="1"/>
     </attachment>
     <attachment name="conditionAttachmentKeoland_Still_Active" attachTo="Keoland" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2-+"/>
+      <option name="rounds" value="2-+"/>
       <option name="directPresenceTerritories" value="map" count="1"/>
       <option name="unitPresence" value="hero:Skotti" count="1"/>
     </attachment>
     <attachment name="conditionAttachmentKet_Still_Active" attachTo="Ket" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2-+"/>
+      <option name="rounds" value="2-+"/>
       <option name="directPresenceTerritories" value="map" count="1"/>
       <option name="unitPresence" value="hero:Beygraf_Zoltan" count="1"/>
     </attachment>
     <attachment name="conditionAttachmentIron_League_Still_Active" attachTo="Iron_League" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2-+"/>
+      <option name="rounds" value="2-+"/>
       <option name="directPresenceTerritories" value="map" count="1"/>
       <option name="unitPresence" value="hero:Cobb_Darg" count="1"/>
     </attachment>
     <attachment name="conditionAttachmentPomarj_Still_Active" attachTo="Pomarj" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2-+"/>
+      <option name="rounds" value="2-+"/>
       <option name="directPresenceTerritories" value="map" count="1"/>
       <option name="unitPresence" value="hero:Turrosh_Mak" count="1"/>
     </attachment>
     <attachment name="conditionAttachmentSuel_Still_Active" attachTo="Suel" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2-+"/>
+      <option name="rounds" value="2-+"/>
       <option name="directPresenceTerritories" value="map" count="1"/>
       <option name="unitPresence" value="hero:Ingemar" count="1"/>
     </attachment>
     <!-- Initial Lore Notifications -->
     <attachment name="conditionAttachmentIuzFirstRound" attachTo="Iuz" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1"/>
+      <option name="rounds" value="1"/>
     </attachment>
     <attachment name="triggerAttachmentIuzFirstRound" attachTo="Iuz" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="conditions" value="conditionAttachmentIuzFirstRound"/>
@@ -6884,7 +6884,7 @@
       <option name="notification" value="IuzFirstRound"/>
     </attachment>
     <attachment name="conditionAttachmentFuryondyFirstRound" attachTo="Furyondy" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1"/>
+      <option name="rounds" value="1"/>
     </attachment>
     <attachment name="triggerAttachmentFuryondyFirstRound" attachTo="Furyondy" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="conditions" value="conditionAttachmentFuryondyFirstRound"/>
@@ -6892,7 +6892,7 @@
       <option name="notification" value="FuryondyFirstRound"/>
     </attachment>
     <attachment name="conditionAttachmentGreat_KingdomFirstRound" attachTo="Great_Kingdom" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1"/>
+      <option name="rounds" value="1"/>
     </attachment>
     <attachment name="triggerAttachmentGreat_KingdomFirstRound" attachTo="Great_Kingdom" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="conditions" value="conditionAttachmentGreat_KingdomFirstRound"/>
@@ -6900,7 +6900,7 @@
       <option name="notification" value="Great_KingdomFirstRound"/>
     </attachment>
     <attachment name="conditionAttachmentNyrondFirstRound" attachTo="Nyrond" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1"/>
+      <option name="rounds" value="1"/>
     </attachment>
     <attachment name="triggerAttachmentNyrondFirstRound" attachTo="Nyrond" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="conditions" value="conditionAttachmentNyrondFirstRound"/>
@@ -6908,7 +6908,7 @@
       <option name="notification" value="NyrondFirstRound"/>
     </attachment>
     <attachment name="conditionAttachmentScarlet_BrotherhoodFirstRound" attachTo="Scarlet_Brotherhood" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1"/>
+      <option name="rounds" value="1"/>
     </attachment>
     <attachment name="triggerAttachmentScarlet_BrotherhoodFirstRound" attachTo="Scarlet_Brotherhood" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="conditions" value="conditionAttachmentScarlet_BrotherhoodFirstRound"/>
@@ -6916,7 +6916,7 @@
       <option name="notification" value="Scarlet_BrotherhoodFirstRound"/>
     </attachment>
     <attachment name="conditionAttachmentKeolandFirstRound" attachTo="Keoland" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1"/>
+      <option name="rounds" value="1"/>
     </attachment>
     <attachment name="triggerAttachmentKeolandFirstRound" attachTo="Keoland" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="conditions" value="conditionAttachmentKeolandFirstRound"/>
@@ -6924,7 +6924,7 @@
       <option name="notification" value="KeolandFirstRound"/>
     </attachment>
     <attachment name="conditionAttachmentKetFirstRound" attachTo="Ket" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1"/>
+      <option name="rounds" value="1"/>
     </attachment>
     <attachment name="triggerAttachmentKetFirstRound" attachTo="Ket" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="conditions" value="conditionAttachmentKetFirstRound"/>
@@ -6932,7 +6932,7 @@
       <option name="notification" value="KetFirstRound"/>
     </attachment>
     <attachment name="conditionAttachmentIron_LeagueFirstRound" attachTo="Iron_League" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1"/>
+      <option name="rounds" value="1"/>
     </attachment>
     <attachment name="triggerAttachmentIron_LeagueFirstRound" attachTo="Iron_League" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="conditions" value="conditionAttachmentIron_LeagueFirstRound"/>
@@ -6940,7 +6940,7 @@
       <option name="notification" value="Iron_LeagueFirstRound"/>
     </attachment>
     <attachment name="conditionAttachmentPomarjFirstRound" attachTo="Pomarj" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1"/>
+      <option name="rounds" value="1"/>
     </attachment>
     <attachment name="triggerAttachmentPomarjFirstRound" attachTo="Pomarj" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="conditions" value="conditionAttachmentPomarjFirstRound"/>
@@ -6948,7 +6948,7 @@
       <option name="notification" value="PomarjFirstRound"/>
     </attachment>
     <attachment name="conditionAttachmentSuelFirstRound" attachTo="Suel" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1"/>
+      <option name="rounds" value="1"/>
     </attachment>
     <attachment name="triggerAttachmentSuelFirstRound" attachTo="Suel" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="conditions" value="conditionAttachmentSuelFirstRound"/>
@@ -25938,10 +25938,10 @@
     <property name="Kamikaze Suicide Attacks Only Where Battles Are" value="false" editable="false">
       <boolean/>
     </property>
-    <property name="Units repair at end of round" value="false" editable="false">
+    <property name="Units Repair Hits End Turn" value="false" editable="false">
       <boolean/>
     </property>
-    <property name="Units repair at beginning of round" value="true" editable="false">
+    <property name="Units Repair Hits Start Turn" value="true" editable="false">
       <boolean/>
     </property>
     <property name="Two HitPoint Units Require Repair Facilities" value="true" editable="false">
