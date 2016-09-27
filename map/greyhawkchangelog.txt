@@ -1,3 +1,73 @@
+1.1
+
+Release for TripleA engine 1.9.
+
+
+
+1.0.7
+
+The AI will sometimes acquire new territories through diplomacy.
+
+Each faction now has seven options for gaining control of territories through diplomacy.
+
+Now the PUs spent on a failed attempt at diplomacy aren't entirely wasted--your chances will improve next round. After you pay another bribe, of course.
+
+Three new random events have been added, and three new magical treasures.
+
+A unique, high-powered unit has been added for each faction. These can only be obtained through magic or mercenary territories, and are very rare.
+
+
+
+1.0.6
+
+Added a new random event: plague.
+
+Suel's dwarves now get correct bonuses in hills and mountains.
+
+Players can now see whether a faction is immune to blockades by checking whether it has "Smugglers" on the tech panel.
+
+Placement rules for fortifications and bowmen are now similar to placement rules for heroes: they don't count against the limit on the number of new units you can place in a territory.
+
+Each nation now has a unique fortification image. The Pomarj and Iron League have slightly improved coats of arms.
+
+Custom tooltips have been added for units.
+
+The requirement for Honorable Victory for the Indomitable Center has been lowered to 36.
+
+A number of territory names have been changed, improving fidelity to source material.
+
+
+
+1.0.5
+
+Giants now fire against dragons before any cavalry charge can kill the giants.
+
+Bowmen can now retreat rather than being left behind to die while the rest of their army retreats.
+
+Fortifications are more attractively priced at 8 PUs rather than 10.
+
+Two new magical treasures have been added, both affecting fortifications, including giving them some movement.
+
+Since Nyrond's extra hero kept getting killed by Great Kingdom before Nyrond could even use him, Nyrond now receives him at the end of the first round.
+
+Even at a reduced frequency, the flood event kept having too great an impact on the course of a game. Instead of preventing all combat movement by ground units but allowing full non-combat movement, now it simply reduces movement of ground units by half for the entire round and prevents cavalry from charging.
+
+The peasant revolt event was overpowered. No longer will it simply skip the faction's placement and production phases. Now, all PUs are lost, and the faction is instead able to place two free conscripts, plus an additional conscript for every four territories it controls.
+
+The Scarlet Brotherhood's scouts in Hold of the Sea Princes weren't very useful. They've been replaced with conscripts. And just for fun, the conscripts in Hool have been replaced with a troll.
+
+If a faction manages to get magic treasure in the very first round of play, they now draw from the full range of possible treasures rather than the three it was unintentionally limited to before.
+
+Players who were transporting their last remaining hero or leader on a boat to a friendly territory were mistakenly designated as vanquished because the triggers fired before non-combat movement. They now fire after non-combat movement, allowing the leader or hero to disembark. They still fire if he remains onboard beyond the non-combat movement phase. Similarly, if you have no heroes and your leader is captured, it used to consider you vanquished. This is no longer the case.
+
+Now losing a leader feels like the disaster it is. If a leader is captured or slain, that faction suffers a 10 PU penalty in production every round until the leader is rescued or revived. As with many game mechanics, this affects AI players differently since the AI doesn't understand such rules.
+
+Known issues are made more clear in game notes.
+
+Technologies can now be changed in edit mode. This only facilitates game testing and does not affect play.
+
+
+
 1.0
 
 User actions now appear in priority order: I am a human, Revive, Diplomacy, then Assassinations.
