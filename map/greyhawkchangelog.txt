@@ -2,6 +2,8 @@
 
 Release for TripleA engine 1.9.
 
+With the removal of the Medium AI, a game note warning that scrambling can sometimes crash the Medium AI has been removed. Since this bug doesn't need to be avoided, the "Scramble Rules In Effect" game option is no longer editable.
+
 
 
 1.0.7

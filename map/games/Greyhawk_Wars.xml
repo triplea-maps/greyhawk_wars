@@ -3,11 +3,11 @@
 <!DOCTYPE game SYSTEM "game.dtd">
 
 <game>
-	<info name="Greyhawk Wars" version="1.1"/><!--September 26, 2016-->
+	<info name="Greyhawk Wars" version="1.1.0"/><!--November 4, 2016-->
 
 	<loader javaClass="games.strategy.triplea.TripleA"/>
 
-	<triplea minimumVersion="1.8.0.7"/>
+	<triplea minimumVersion="1.9"/>
 
 	<diceSides value="6"/>
 
@@ -31627,7 +31627,7 @@
 			<boolean/>
 		</property>
 		
-		<property name="Scramble Rules In Effect" value="true" editable="true">
+		<property name="Scramble Rules In Effect" value="true" editable="false">
 			<boolean/>
 		</property>
 		
@@ -32234,7 +32234,6 @@
 			<li><b>Known Issue:</b> The TripleA engine allows a defender to call on unallied, third-party dragons to scramble to help defend. For the purposes of Greyhawk Wars, this is against the rules.
 			<li><b>Known Issue:</b> Regularly purchased units cannot be placed on mercenary territories. However, it is possible to place galleys and half-galleys using heroes in mercenary territories. This should be considered an exploit.
 			<li><b>Known Issue:</b> A faction will incorrectly become vanquished if it boards its last remaining hero or leader onto a boat belonging to an ally. The allied boat and the hero or leader will then be stuck in an unresolvable conflict, with neither able to move from the territory.
-			<li><b>Known Issue:</b> Hard AI is strongly recommended, especially the latest development version (http://tinyurl.com/HardAI). If using the Medium AI, you must disable scrambling in the game options, otherwise the Medium AI will crash in rare situations.
 			</ul><br>
 			<br>
 			<br>
