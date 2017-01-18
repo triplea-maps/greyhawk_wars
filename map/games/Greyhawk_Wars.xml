@@ -31912,7 +31912,7 @@
 		</property>
 		
 		<!-- Map Name: also used for map utils when asked -->
-		<property name="mapName" value="Greyhawk_Wars" editable="false">
+		<property name="mapName" value="greyhawk_wars" editable="false">
 				<string/>
 		</property>
 
