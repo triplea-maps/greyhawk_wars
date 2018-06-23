@@ -21417,7 +21417,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_DORAKAA"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21437,7 +21437,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_MOLAG"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21457,7 +21457,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_VLEKSTAAD"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21477,7 +21477,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_CHENDL"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21497,7 +21497,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_ADMUNDFORT"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21517,7 +21517,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_CROCKPORT"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21537,7 +21537,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_RAUXES"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21557,7 +21557,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_WINETHA"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21577,7 +21577,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_TORRICH"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21597,7 +21597,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_REL_MORD"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21617,7 +21617,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_CHATHOLD"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21637,7 +21637,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_WOODWYCH"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21657,7 +21657,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_HESUEL_ILSHAR"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21677,7 +21677,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_IDEE"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21697,7 +21697,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_SEA_PRINCES"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21717,7 +21717,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_NIOLE_DRA"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21737,7 +21737,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_GRADSUL"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21757,7 +21757,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_LOFTWICK"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21777,7 +21777,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_LOPOLLA"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21797,7 +21797,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_TUSMIT"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21817,7 +21817,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_ZEIF"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21837,7 +21837,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_IRONGATE"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21857,7 +21857,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_SUNNDI"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21877,7 +21877,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_DUXCHAN"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21897,7 +21897,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_DRACHENSGRAB"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21917,7 +21917,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_ELREDD"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21937,7 +21937,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_GRYRAX"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21957,7 +21957,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_SOULL"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21977,7 +21977,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_KRAKENHEIM"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -21997,7 +21997,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_JOTSPLAT"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22017,7 +22017,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_EKBIR"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22037,7 +22037,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_PERRENLAND"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22057,7 +22057,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_BISSEL"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22077,7 +22077,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_MITRICK"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22097,7 +22097,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_BANDIT_KINGDOMS"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22117,7 +22117,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_TENH"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22137,7 +22137,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_GREYHAWK"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22157,7 +22157,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_CELENE"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22177,7 +22177,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_JURNRE"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22197,7 +22197,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_LITTLE_HILLS"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22217,7 +22217,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_BONE_MARCH"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22237,7 +22237,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_EASTFAIR"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22257,7 +22257,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_AHLISSA"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22277,7 +22277,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_REL_ASTRA"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22297,7 +22297,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_HEPMONALAND"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22318,7 +22318,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_ERUTOVAR"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22338,7 +22338,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_PAYNIMS"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22358,7 +22358,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_VESVE"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22378,7 +22378,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_KRON"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22398,7 +22398,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_FLEN"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22418,7 +22418,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_WILD_COAST"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22438,7 +22438,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_CELADON"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22458,7 +22458,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_TANGLES"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22478,7 +22478,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_GRANDWOOD"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22498,7 +22498,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_THELLY"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22518,7 +22518,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_HESTMARK"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22539,7 +22539,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_VALLEY"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22559,7 +22559,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_CAIRN"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22579,7 +22579,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_RIFT"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22599,7 +22599,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_LO_RELTARMA"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22619,7 +22619,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_TELANETECULI"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22639,7 +22639,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_RAKERS"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22659,7 +22659,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_COLD_MARSHES"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22679,7 +22679,7 @@
 				<option name="activateTrigger" value="triggerAttachmentAssassinateMarker:1:false:false:false:false"/>
 				<option name="text" value="ASSASSINATE_VAST"/>
 				<option name="chance" value="2:6"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
@@ -22804,7 +22804,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentIuzRevivesKet:1:false:false:false:false"/>
 				<option name="text" value="IUZ_REVIVES_KET"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Ket"/>
 			</attachment>
 			<attachment name="triggerAttachmentIuzRevivesSuel" attachTo="Iuz" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -22828,7 +22828,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentIuzRevivesSuel:1:false:false:false:false"/>
 				<option name="text" value="IUZ_REVIVES_SUEL"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Suel"/>
 			</attachment>
 			
@@ -22853,7 +22853,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentFuryondyRevivesNyrond:1:false:false:false:false"/>
 				<option name="text" value="FURYONDY_REVIVES_NYROND"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Nyrond"/>
 			</attachment>
 			<attachment name="triggerAttachmentFuryondyRevivesKeoland" attachTo="Furyondy" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -22877,7 +22877,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentFuryondyRevivesKeoland:1:false:false:false:false"/>
 				<option name="text" value="FURYONDY_REVIVES_KEOLAND"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Keoland"/>
 			</attachment>
 			<attachment name="triggerAttachmentFuryondyRevivesIron_League" attachTo="Furyondy" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -22901,7 +22901,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentFuryondyRevivesIron_League:1:false:false:false:false"/>
 				<option name="text" value="FURYONDY_REVIVES_IRON_LEAGUE"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Iron_League"/>
 			</attachment>
 			
@@ -22926,7 +22926,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentGreat_KingdomRevivesScarlet_Brotherhood:1:false:false:false:false"/>
 				<option name="text" value="GREAT_KINGDOM_REVIVES_SCARLET_BROTHERHOOD"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Scarlet_Brotherhood"/>
 			</attachment>
 			<attachment name="triggerAttachmentGreat_KingdomRevivesPomarj" attachTo="Great_Kingdom" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -22950,7 +22950,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentGreat_KingdomRevivesPomarj:1:false:false:false:false"/>
 				<option name="text" value="GREAT_KINGDOM_REVIVES_POMARJ"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Pomarj"/>
 			</attachment>
 			
@@ -22975,7 +22975,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentNyrondRevivesFuryondy:1:false:false:false:false"/>
 				<option name="text" value="NYROND_REVIVES_FURYONDY"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Furyondy"/>
 			</attachment>
 			<attachment name="triggerAttachmentNyrondRevivesKeoland" attachTo="Nyrond" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -22999,7 +22999,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentNyrondRevivesKeoland:1:false:false:false:false"/>
 				<option name="text" value="NYROND_REVIVES_KEOLAND"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Keoland"/>
 			</attachment>
 			<attachment name="triggerAttachmentNyrondRevivesIron_League" attachTo="Nyrond" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -23023,7 +23023,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentNyrondRevivesIron_League:1:false:false:false:false"/>
 				<option name="text" value="NYROND_REVIVES_IRON_LEAGUE"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Iron_League"/>
 			</attachment>
 			
@@ -23048,7 +23048,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentScarlet_BrotherhoodRevivesPomarj:1:false:false:false:false"/>
 				<option name="text" value="SCARLET_BROTHERHOOD_REVIVES_POMARJ"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Pomarj"/>
 			</attachment>
 			<attachment name="triggerAttachmentScarlet_BrotherhoodRevivesGreat_Kingdom" attachTo="Scarlet_Brotherhood" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -23072,7 +23072,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentScarlet_BrotherhoodRevivesGreat_Kingdom:1:false:false:false:false"/>
 				<option name="text" value="SCARLET_BROTHERHOOD_REVIVES_GREAT_KINGDOM"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Great_Kingdom"/>
 			</attachment>
 			
@@ -23097,7 +23097,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentKeolandRevivesFuryondy:1:false:false:false:false"/>
 				<option name="text" value="KEOLAND_REVIVES_FURYONDY"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Furyondy"/>
 			</attachment>
 			<attachment name="triggerAttachmentKeolandRevivesNyrond" attachTo="Keoland" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -23121,7 +23121,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentKeolandRevivesNyrond:1:false:false:false:false"/>
 				<option name="text" value="KEOLAND_REVIVES_NYROND"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Nyrond"/>
 			</attachment>
 			<attachment name="triggerAttachmentKeolandRevivesIron_League" attachTo="Keoland" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -23145,7 +23145,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentKeolandRevivesIron_League:1:false:false:false:false"/>
 				<option name="text" value="KEOLAND_REVIVES_IRON_LEAGUE"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Iron_League"/>
 			</attachment>
 			
@@ -23170,7 +23170,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentKetRevivesSuel:1:false:false:false:false"/>
 				<option name="text" value="KET_REVIVES_SUEL"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Suel"/>
 			</attachment>
 			<attachment name="triggerAttachmentKetRevivesIuz" attachTo="Ket" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -23194,7 +23194,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentKetRevivesIuz:1:false:false:false:false"/>
 				<option name="text" value="KET_REVIVES_IUZ"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Iuz"/>
 			</attachment>
 			
@@ -23219,7 +23219,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentIron_LeagueRevivesFuryondy:1:false:false:false:false"/>
 				<option name="text" value="IRON_LEAGUE_REVIVES_FURYONDY"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Furyondy"/>
 			</attachment>
 			<attachment name="triggerAttachmentIron_LeagueRevivesNyrond" attachTo="Iron_League" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -23243,7 +23243,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentIron_LeagueRevivesNyrond:1:false:false:false:false"/>
 				<option name="text" value="IRON_LEAGUE_REVIVES_NYROND"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Nyrond"/>
 			</attachment>
 			<attachment name="triggerAttachmentIron_LeagueRevivesKeoland" attachTo="Iron_League" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -23267,7 +23267,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentIron_LeagueRevivesKeoland:1:false:false:false:false"/>
 				<option name="text" value="IRON_LEAGUE_REVIVES_KEOLAND"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Keoland"/>
 			</attachment>
 			
@@ -23292,7 +23292,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentPomarjRevivesGreat_Kingdom:1:false:false:false:false"/>
 				<option name="text" value="POMARJ_REVIVES_GREAT_KINGDOM"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Great_Kingdom"/>
 			</attachment>
 			<attachment name="triggerAttachmentPomarjRevivesScarlet_Brotherhood" attachTo="Pomarj" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -23316,7 +23316,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentPomarjRevivesScarlet_Brotherhood:1:false:false:false:false"/>
 				<option name="text" value="POMARJ_REVIVES_SCARLET_BROTHERHOOD"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Scarlet_Brotherhood"/>
 			</attachment>
 			
@@ -23341,7 +23341,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentSuelRevivesIuz:1:false:false:false:false"/>
 				<option name="text" value="SUEL_REVIVES_IUZ"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Iuz"/>
 			</attachment>
 			<attachment name="triggerAttachmentSuelRevivesKet" attachTo="Suel" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -23365,7 +23365,7 @@
 				<option name="conditionType" value="AND"/>
 				<option name="activateTrigger" value="triggerAttachmentSuelRevivesKet:1:false:false:false:false"/>
 				<option name="text" value="SUEL_REVIVES_KET"/>
-				<option name="costPU" value="50"/>
+				<option name="costResources" value="PUs" count="50"/>
 				<option name="actionAccept" value="Ket"/>
 			</attachment>
 			
@@ -23697,7 +23697,7 @@
 				<option name="text" value="IUZ_DIPLOMACY_BLACKMOOR"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>	
 			<attachment name="triggerAttachmentIuz_Diplomacy_Blackmoor_AI" attachTo="Iuz" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -23732,7 +23732,7 @@
 				<option name="text" value="IUZ_DIPLOMACY_ROOKROOST"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="7"/>
+				<option name="costResources" value="PUs" count="7"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>			
 			<attachment name="triggerAttachmentIuz_Diplomacy_Rookroost_AI" attachTo="Iuz" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -23772,7 +23772,7 @@
 				<option name="text" value="IUZ_DIPLOMACY_THEOCRACY"/>
 				<option name="chance" value="2:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="12"/>
+				<option name="costResources" value="PUs" count="12"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>	
 			<attachment name="triggerAttachmentIuz_Diplomacy_Pale_AI" attachTo="Iuz" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -23814,7 +23814,7 @@
 				<option name="text" value="IUZ_DIPLOMACY_PERRENLAND"/>
 				<option name="chance" value="2:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="16"/>
+				<option name="costResources" value="PUs" count="16"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>	
 			<attachment name="triggerAttachmentIuz_Diplomacy_Perrenland_AI" attachTo="Iuz" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -23848,7 +23848,7 @@
 				<option name="text" value="IUZ_DIPLOMACY_WORMHALL"/>
 				<option name="chance" value="4:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="6"/>
+				<option name="costResources" value="PUs" count="6"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>	
 			<attachment name="triggerAttachmentIuz_Diplomacy_Wormhall_AI" attachTo="Iuz" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -23882,7 +23882,7 @@
 				<option name="text" value="IUZ_DIPLOMACY_HARDWYN"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="4"/>
+				<option name="costResources" value="PUs" count="4"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>				
 			<attachment name="triggerAttachmentIuz_Diplomacy_Hardwyn_AI" attachTo="Iuz" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -23920,7 +23920,7 @@
 				<option name="text" value="IUZ_DIPLOMACY_BANDIT_KINGDOMS"/>
 				<option name="chance" value="4:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="12"/>
+				<option name="costResources" value="PUs" count="12"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>				
 			<attachment name="triggerAttachmentIuz_Diplomacy_Bandit_Kingdoms_AI" attachTo="Iuz" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -23964,7 +23964,7 @@
 				<option name="text" value="FURYONDY_DIPLOMACY_VELUNA"/>
 				<option name="chance" value="4:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="23"/>
+				<option name="costResources" value="PUs" count="23"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>				
 			<attachment name="triggerAttachmentFuryondy_Diplomacy_Veluna_AI" attachTo="Furyondy" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -23999,7 +23999,7 @@
 				<option name="text" value="FURYONDY_DIPLOMACY_HIGHFOLK"/>
 				<option name="chance" value="4:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="12"/>
+				<option name="costResources" value="PUs" count="12"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>			
 			<attachment name="triggerAttachmentFuryondy_Diplomacy_Highfolk_AI" attachTo="Furyondy" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24041,7 +24041,7 @@
 				<option name="text" value="FURYONDY_DIPLOMACY_PERRENLAND"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="18"/>
+				<option name="costResources" value="PUs" count="18"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>			
 			<attachment name="triggerAttachmentFuryondy_Diplomacy_Perrenland_AI" attachTo="Furyondy" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24079,7 +24079,7 @@
 				<option name="text" value="FURYONDY_DIPLOMACY_BISSEL"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="14"/>
+				<option name="costResources" value="PUs" count="14"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>			
 			<attachment name="triggerAttachmentFuryondy_Diplomacy_Bissel_AI" attachTo="Furyondy" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24113,7 +24113,7 @@
 				<option name="text" value="FURYONDY_DIPLOMACY_REYHU"/>
 				<option name="chance" value="2:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="3"/>
+				<option name="costResources" value="PUs" count="3"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>			
 			<attachment name="triggerAttachmentFuryondy_Diplomacy_Reyhu_AI" attachTo="Furyondy" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24147,7 +24147,7 @@
 				<option name="text" value="FURYONDY_DIPLOMACY_CELENE"/>
 				<option name="chance" value="2:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="11"/>
+				<option name="costResources" value="PUs" count="11"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>			
 			<attachment name="triggerAttachmentFuryondy_Diplomacy_Celene_AI" attachTo="Furyondy" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24182,7 +24182,7 @@
 				<option name="text" value="FURYONDY_DIPLOMACY_KRON"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="7"/>
+				<option name="costResources" value="PUs" count="7"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>			
 			<attachment name="triggerAttachmentFuryondy_Diplomacy_Kron_AI" attachTo="Furyondy" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24230,7 +24230,7 @@
 				<option name="text" value="GREAT_KINGDOM_DIPLOMACY_BONE_MARCH"/>
 				<option name="chance" value="4:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="25"/>
+				<option name="costResources" value="PUs" count="25"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>		
 			<attachment name="triggerAttachmentGreat_Kingdom_Diplomacy_Bone_March_AI" attachTo="Great_Kingdom" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24269,7 +24269,7 @@
 				<option name="text" value="GREAT_KINGDOM_DIPLOMACY_NORTH_PROVINCE"/>
 				<option name="chance" value="4:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="17"/>
+				<option name="costResources" value="PUs" count="17"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>		
 			<attachment name="triggerAttachmentGreat_Kingdom_Diplomacy_North_Province_AI" attachTo="Great_Kingdom" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24308,7 +24308,7 @@
 				<option name="text" value="GREAT_KINGDOM_DIPLOMACY_SOUTH_PROVINCE"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="18"/>
+				<option name="costResources" value="PUs" count="18"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentGreat_Kingdom_Diplomacy_South_Province_AI" attachTo="Great_Kingdom" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24349,7 +24349,7 @@
 				<option name="text" value="GREAT_KINGDOM_DIPLOMACY_MEDEGIA"/>
 				<option name="chance" value="2:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="15"/>
+				<option name="costResources" value="PUs" count="15"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentGreat_Kingdom_Diplomacy_Medegia_AI" attachTo="Great_Kingdom" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24383,7 +24383,7 @@
 				<option name="text" value="GREAT_KINGDOM_DIPLOMACY_RATIK"/>
 				<option name="chance" value="2:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="5"/>
+				<option name="costResources" value="PUs" count="5"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentGreat_Kingdom_Diplomacy_Ratik_AI" attachTo="Great_Kingdom" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24417,7 +24417,7 @@
 				<option name="text" value="GREAT_KINGDOM_DIPLOMACY_THELLY"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="4"/>
+				<option name="costResources" value="PUs" count="4"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentGreat_Kingdom_Diplomacy_Thelly_AI" attachTo="Great_Kingdom" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24455,7 +24455,7 @@
 				<option name="text" value="GREAT_KINGDOM_DIPLOMACY_GRANDWOOD"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="8"/>
+				<option name="costResources" value="PUs" count="8"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentGreat_Kingdom_Diplomacy_Grandwood_AI" attachTo="Great_Kingdom" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24496,7 +24496,7 @@
 				<option name="text" value="NYROND_DIPLOMACY_DUCHY_OF_URNST"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="9"/>
+				<option name="costResources" value="PUs" count="9"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentNyrond_Diplomacy_Duchy_of_Urnst_AI" attachTo="Nyrond" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24534,7 +24534,7 @@
 				<option name="text" value="NYROND_DIPLOMACY_COUNTY_OF_URNST"/>
 				<option name="chance" value="4:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="18"/>
+				<option name="costResources" value="PUs" count="18"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentNyrond_Diplomacy_County_of_Urnst_AI" attachTo="Nyrond" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24574,7 +24574,7 @@
 				<option name="text" value="NYROND_DIPLOMACY_THEOCRACY"/>
 				<option name="chance" value="2:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="10"/>
+				<option name="costResources" value="PUs" count="10"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>	
 			<attachment name="triggerAttachmentNyrond_Diplomacy_Pale_AI" attachTo="Nyrond" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24611,7 +24611,7 @@
 				<option name="text" value="NYROND_DIPLOMACY_TENH"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="13"/>
+				<option name="costResources" value="PUs" count="13"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentNyrond_Diplomacy_Duchy_of_Tenh_AI" attachTo="Nyrond" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24646,7 +24646,7 @@
 				<option name="text" value="NYROND_DIPLOMACY_STOINK"/>
 				<option name="chance" value="2:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="4"/>
+				<option name="costResources" value="PUs" count="4"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentNyrond_Diplomacy_Stoink_AI" attachTo="Nyrond" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24680,7 +24680,7 @@
 				<option name="text" value="NYROND_DIPLOMACY_ARTONSAMAY"/>
 				<option name="chance" value="2:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="3"/>
+				<option name="costResources" value="PUs" count="3"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentNyrond_Diplomacy_Artonsamay_AI" attachTo="Nyrond" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24715,7 +24715,7 @@
 				<option name="text" value="NYROND_DIPLOMACY_CELADON"/>
 				<option name="chance" value="4:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="9"/>
+				<option name="costResources" value="PUs" count="9"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentNyrond_Diplomacy_Celadon_AI" attachTo="Nyrond" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24757,7 +24757,7 @@
 				<option name="text" value="BROTHERHOOD_DIPLOMACY_HEPMONALAND"/>
 				<option name="chance" value="4:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="16"/>
+				<option name="costResources" value="PUs" count="16"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentScarlet_Brotherhood_Diplomacy_Hepmonaland_AI" attachTo="Scarlet_Brotherhood" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24796,7 +24796,7 @@
 				<option name="text" value="BROTHERHOOD_DIPLOMACY_SOUTH_PROVINCE"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="20"/>
+				<option name="costResources" value="PUs" count="20"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentScarlet_Brotherhood_Diplomacy_South_Province_AI" attachTo="Scarlet_Brotherhood" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24832,7 +24832,7 @@
 				<option name="text" value="BROTHERHOOD_DIPLOMACY_AMEDIO"/>
 				<option name="chance" value="4:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="12"/>
+				<option name="costResources" value="PUs" count="12"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentScarlet_Brotherhood_Diplomacy_Amedio_Jungle_AI" attachTo="Scarlet_Brotherhood" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24876,7 +24876,7 @@
 				<option name="text" value="BROTHERHOOD_DIPLOMACY_CRYSTALMIST"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="22"/>
+				<option name="costResources" value="PUs" count="22"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentScarlet_Brotherhood_Diplomacy_Crystalmist_AI" attachTo="Scarlet_Brotherhood" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24912,7 +24912,7 @@
 				<option name="text" value="BROTHERHOOD_DIPLOMACY_GREYHAWK"/>
 				<option name="chance" value="2:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="25"/>
+				<option name="costResources" value="PUs" count="25"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentScarlet_Brotherhood_Diplomacy_Greyhawk_AI" attachTo="Scarlet_Brotherhood" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24947,7 +24947,7 @@
 				<option name="text" value="BROTHERHOOD_DIPLOMACY_BRIGHT_DESERT"/>
 				<option name="chance" value="2:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="7"/>
+				<option name="costResources" value="PUs" count="7"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentScarlet_Brotherhood_Diplomacy_Desert_AI" attachTo="Scarlet_Brotherhood" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -24990,7 +24990,7 @@
 				<option name="text" value="BROTHERHOOD_DIPLOMACY_AZURE_ISLES"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="13"/>
+				<option name="costResources" value="PUs" count="13"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentScarlet_Brotherhood_Diplomacy_Azure_Isles_AI" attachTo="Scarlet_Brotherhood" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25030,7 +25030,7 @@
 				<option name="text" value="KEOLAND_DIPLOMACY_STERICH"/>
 				<option name="chance" value="2:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="3"/>
+				<option name="costResources" value="PUs" count="3"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentKeoland_Diplomacy_Sterich_AI" attachTo="Keoland" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25068,7 +25068,7 @@
 				<option name="text" value="KEOLAND_DIPLOMACY_GEOFF"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="8"/>
+				<option name="costResources" value="PUs" count="8"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentKeoland_Diplomacy_Geoff_AI" attachTo="Keoland" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25105,7 +25105,7 @@
 				<option name="text" value="KEOLAND_DIPLOMACY_DUCHY_OF_ULEK"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="15"/>
+				<option name="costResources" value="PUs" count="15"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentKeoland_Diplomacy_Duchy_of_Ulek_AI" attachTo="Keoland" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25143,7 +25143,7 @@
 				<option name="text" value="KEOLAND_DIPLOMACY_COUNTY_OF_ULEK"/>
 				<option name="chance" value="4:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="14"/>
+				<option name="costResources" value="PUs" count="14"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentKeoland_Diplomacy_County_of_Ulek_AI" attachTo="Keoland" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25181,7 +25181,7 @@
 				<option name="text" value="KEOLAND_DIPLOMACY_GRAN_MARCH"/>
 				<option name="chance" value="4:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="15"/>
+				<option name="costResources" value="PUs" count="15"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentKeoland_Diplomacy_Gran_March_AI" attachTo="Keoland" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25218,7 +25218,7 @@
 				<option name="text" value="KEOLAND_DIPLOMACY_CELENE"/>
 				<option name="chance" value="2:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="11"/>
+				<option name="costResources" value="PUs" count="11"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>	
 			<attachment name="triggerAttachmentKeoland_Diplomacy_Celene_AI" attachTo="Keoland" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25255,7 +25255,7 @@
 				<option name="text" value="KEOLAND_DIPLOMACY_HILLFOLK"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="7"/>
+				<option name="costResources" value="PUs" count="7"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>	
 			<attachment name="triggerAttachmentKeoland_Diplomacy_Hillfolk_AI" attachTo="Keoland" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25296,7 +25296,7 @@
 				<option name="text" value="KET_DIPLOMACY_ULL"/>
 				<option name="chance" value="4:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="4"/>
+				<option name="costResources" value="PUs" count="4"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>	
 			<attachment name="triggerAttachmentKet_Diplomacy_Ull_AI" attachTo="Ket" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25330,7 +25330,7 @@
 				<option name="text" value="KET_DIPLOMACY_PAYNIMS"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="8"/>
+				<option name="costResources" value="PUs" count="8"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>	
 			<attachment name="triggerAttachmentKet_Diplomacy_Paynims_AI" attachTo="Ket" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25372,7 +25372,7 @@
 				<option name="text" value="KET_DIPLOMACY_PERRENLAND"/>
 				<option name="chance" value="2:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="20"/>
+				<option name="costResources" value="PUs" count="20"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>	
 			<attachment name="triggerAttachmentKet_Diplomacy_Perrenland_AI" attachTo="Ket" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25410,7 +25410,7 @@
 				<option name="text" value="KET_DIPLOMACY_EKBIR"/>
 				<option name="chance" value="2:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="18"/>
+				<option name="costResources" value="PUs" count="18"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>	
 			<attachment name="triggerAttachmentKet_Diplomacy_Ekbir_AI" attachTo="Ket" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25448,7 +25448,7 @@
 				<option name="text" value="KET_DIPLOMACY_TIGER_NOMADS"/>
 				<option name="chance" value="4:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="9"/>
+				<option name="costResources" value="PUs" count="9"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>	
 			<attachment name="triggerAttachmentKet_Diplomacy_Tiger_Nomads_AI" attachTo="Ket" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25489,7 +25489,7 @@
 				<option name="text" value="KET_DIPLOMACY_WOLF_NOMADS"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="12"/>
+				<option name="costResources" value="PUs" count="12"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>	
 			<attachment name="triggerAttachmentKet_Diplomacy_Wolf_Nomads_AI" attachTo="Ket" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25528,7 +25528,7 @@
 				<option name="text" value="KET_DIPLOMACY_HILLS"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="9"/>
+				<option name="costResources" value="PUs" count="9"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>	
 			<attachment name="triggerAttachmentKet_Diplomacy_Tusman_AI" attachTo="Ket" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25569,7 +25569,7 @@
 				<option name="text" value="IRON_LEAGUE_DIPLOMACY_HEPMONALAND"/>
 				<option name="chance" value="2:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="10"/>
+				<option name="costResources" value="PUs" count="10"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentIron_League_Diplomacy_Hepmonaland_AI" attachTo="Iron_League" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25610,7 +25610,7 @@
 				<option name="text" value="IRON_LEAGUE_DIPLOMACY_MEDEGIA"/>
 				<option name="chance" value="2:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="17"/>
+				<option name="costResources" value="PUs" count="17"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentIron_League_Diplomacy_Medegia_AI" attachTo="Iron_League" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25647,7 +25647,7 @@
 				<option name="text" value="IRON_LEAGUE_DIPLOMACY_RIEUWOOD"/>
 				<option name="chance" value="4:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="18"/>
+				<option name="costResources" value="PUs" count="18"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentIron_League_Diplomacy_Forest_AI" attachTo="Iron_League" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25681,7 +25681,7 @@
 				<option name="text" value="IRON_LEAGUE_DIPLOMACY_GLORIOLES"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="8"/>
+				<option name="costResources" value="PUs" count="8"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentIron_League_Diplomacy_Glorioles_AI" attachTo="Iron_League" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25715,7 +25715,7 @@
 				<option name="text" value="IRON_LEAGUE_DIPLOMACY_HOLLOW_HIGHLANDS"/>
 				<option name="chance" value="4:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="8"/>
+				<option name="costResources" value="PUs" count="8"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentIron_League_Diplomacy_Hollow_Highlands_AI" attachTo="Iron_League" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25755,7 +25755,7 @@
 				<option name="text" value="IRON_LEAGUE_DIPLOMACY_ADRI"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="13"/>
+				<option name="costResources" value="PUs" count="13"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentIron_League_Diplomacy_Adri_Forest_AI" attachTo="Iron_League" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25798,7 +25798,7 @@
 				<option name="text" value="IRON_LEAGUE_DIPLOMACY_AZURE_ISLES"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="14"/>
+				<option name="costResources" value="PUs" count="14"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentIron_League_Diplomacy_Azure_Isles_AI" attachTo="Iron_League" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25838,7 +25838,7 @@
 				<option name="text" value="POMARJ_DIPLOMACY_LORTMIL"/>
 				<option name="chance" value="4:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="16"/>
+				<option name="costResources" value="PUs" count="16"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentPomarj_Diplomacy_Lortmil_South_AI" attachTo="Pomarj" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25872,7 +25872,7 @@
 				<option name="text" value="POMARJ_DIPLOMACY_CELENE"/>
 				<option name="chance" value="1:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="15"/>
+				<option name="costResources" value="PUs" count="15"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentPomarj_Diplomacy_Celene_AI" attachTo="Pomarj" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25906,7 +25906,7 @@
 				<option name="text" value="POMARJ_DIPLOMACY_WILD_COAST"/>
 				<option name="chance" value="2:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="4"/>
+				<option name="costResources" value="PUs" count="4"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentPomarj_Diplomacy_Wild_Coast_AI" attachTo="Pomarj" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25941,7 +25941,7 @@
 				<option name="text" value="POMARJ_DIPLOMACY_RUSHMOORS"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="7"/>
+				<option name="costResources" value="PUs" count="7"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentPomarj_Diplomacy_Rushmoors_AI" attachTo="Pomarj" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -25976,7 +25976,7 @@
 				<option name="text" value="POMARJ_DIPLOMACY_DREADWOOD"/>
 				<option name="chance" value="4:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="12"/>
+				<option name="costResources" value="PUs" count="12"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentPomarj_Diplomacy_Dreadwood_AI" attachTo="Pomarj" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -26011,7 +26011,7 @@
 				<option name="text" value="POMARJ_DIPLOMACY_MISTMARSH"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="7"/>
+				<option name="costResources" value="PUs" count="7"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentPomarj_Diplomacy_Mistmarsh_AI" attachTo="Pomarj" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -26037,7 +26037,7 @@
 				<option name="activateTrigger" value="triggerAttachmentPomarj_Diplomacy_Tribes_Switch_True:1:false:false:false:false"/>
 				<option name="text" value="POMARJ_DIPLOMACY_TRIBES_TRUE"/>
 				<option name="chance" value="3:6"/>
-				<option name="costPU" value="12"/>
+				<option name="costResources" value="PUs" count="12"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentPomarj_Diplomacy_Tribes_Switch_False" attachTo="Pomarj" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -26052,7 +26052,7 @@
 				<option name="activateTrigger" value="triggerAttachmentPomarj_Diplomacy_Tribes_Switch_False:1:false:false:false:false"/>
 				<option name="text" value="POMARJ_DIPLOMACY_TRIBES_FALSE"/>
 				<option name="chance" value="3:6"/>
-				<option name="costPU" value="12"/>
+				<option name="costResources" value="PUs" count="12"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentPomarj_Diplomacy_Tribes_Switch_True_AI" attachTo="Pomarj" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -26100,7 +26100,7 @@
 				<option name="text" value="SUEL_DIPLOMACY_RATIK"/>
 				<option name="chance" value="4:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="10"/>
+				<option name="costResources" value="PUs" count="10"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentSuel_Diplomacy_Ratik_AI" attachTo="Suel" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -26137,7 +26137,7 @@
 				<option name="text" value="SUEL_DIPLOMACY_TENH"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="13"/>
+				<option name="costResources" value="PUs" count="13"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentSuel_Diplomacy_Tenh_AI" attachTo="Suel" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -26176,7 +26176,7 @@
 				<option name="text" value="SUEL_DIPLOMACY_NORTH_PROVINCE"/>
 				<option name="chance" value="2:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="10"/>
+				<option name="costResources" value="PUs" count="10"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>	
 			<attachment name="triggerAttachmentSuel_Diplomacy_North_Province_AI" attachTo="Suel" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -26218,7 +26218,7 @@
 				<option name="text" value="SUEL_DIPLOMACY_BONE_MARCH"/>
 				<option name="chance" value="2:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="14"/>
+				<option name="costResources" value="PUs" count="14"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>	
 			<attachment name="triggerAttachmentSuel_Diplomacy_Bone_March_AI" attachTo="Suel" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -26254,7 +26254,7 @@
 				<option name="text" value="SUEL_DIPLOMACY_HEPMONALAND"/>
 				<option name="chance" value="3:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="12"/>
+				<option name="costResources" value="PUs" count="12"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentSuel_Diplomacy_Hepmonaland_AI" attachTo="Suel" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -26294,7 +26294,7 @@
 				<option name="text" value="SUEL_DIPLOMACY_CORUSK"/>
 				<option name="chance" value="4:6"/>
 				<option name="chanceIncrementOnFailure" value="1"/>
-				<option name="costPU" value="8"/>
+				<option name="costResources" value="PUs" count="8"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			<attachment name="triggerAttachmentSuel_Diplomacy_Corusk_Pass_AI" attachTo="Suel" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
@@ -26317,7 +26317,7 @@
 				<option name="activateTrigger" value="triggerAttachmentSuel_Diplomacy_Tribute:1:false:false:false:false"/>
 				<option name="text" value="SUEL_DIPLOMACY_TRIBUTE"/>
 				<option name="chance" value="3:6"/>
-				<option name="costPU" value="10"/>
+				<option name="costResources" value="PUs" count="10"/>
 				<option name="attemptsPerTurn" value="1"/>
 			</attachment>
 			
